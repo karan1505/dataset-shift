@@ -89,7 +89,7 @@ To run a notebook:
 - **Ravi Teja Ravella**
 - **Srinath Ganesh**
 
-> CS594 – Advanced Topics in Software Engineering  
+> CS594 – Responsible AI Engineering  
 > University of Illinois at Chicago
 
 ---
